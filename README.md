@@ -63,6 +63,7 @@ To view or re-run the results, follow these simple steps:
  - Upload or open `EcoVisionNet.ipynb` in Google Colab.
 
 2. **Run All Cells**
+ -Before running every cells change runtime type to T4 GPU
  - Click **Runtime → Run All** to execute all code blocks sequentially.
  - The notebook will automatically:
    - Download the EuroSAT dataset.
