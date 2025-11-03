@@ -77,7 +77,7 @@ To view or re-run the results, follow these simple steps:
    - Predicted land cover class.
    - Grad-CAM heatmap overlay for explainability.
 
-4. **Check Outputs Folder (Optional)**
+4. **Check Outputs Folder **
  - All generated plots and Grad-CAM results will be displayed within the Colab notebook.
  - Additional screenshots and results can be viewed in the **screenshots/** folder included in the repository.
 
