@@ -1,4 +1,4 @@
-# EcoVisionNet
+# Task 1 EcoVisionNet
 
 EcoVisionNet is a deep learning project built to classify land cover types from satellite images using the **EuroSAT (Sentinel-2 RGB)** dataset. It combines a **Custom CNN** with **ResNet-18 (transfer learning)** and includes **Grad-CAM visualization** for explainable AI insights. The project is developed and run entirely in **Google Colab**.
 
@@ -81,6 +81,9 @@ To view or re-run the results, follow these simple steps:
 4. **Check Outputs Folder **
  - All generated plots and Grad-CAM results will be displayed within the Colab notebook.
  - Additional screenshots and results can be viewed in the **screenshots/** folder included in the repository.
+
+   Task 2 face recognition (theory question)
+   I have attached the word document for this question kindly check that.
 
 ---
 
